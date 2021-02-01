@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Cucumber_Valid_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4c9012f-d90c-4015-8d90-76831d0368ca</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>f03662bb-e0e8-4340-9f4b-3a2b66af06a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#chatsSideBar > svg > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M27 0H3C1.35 0 0.015 1.35 0.015 3L0.00134228 27.5839C0.000847187 28.4751 1.07829 28.9217 1.70845 28.2916L5.70711 24.2929C5.89464 24.1054 6.149 24 6.41421 24H27C28.65 24 30 22.65 30 21V3C30 1.35 28.65 0 27 0ZM24 12.5C24 13.0523 23.5523 13.5 23 13.5H7C6.44772 13.5 6 13.0523 6 12.5V11.5C6 10.9477 6.44772 10.5 7 10.5H23C23.5523 10.5 24 10.9477 24 11.5V12.5ZM24 8C24 8.55229 23.5523 9 23 9H7C6.44772 9 6 8.55228 6 8V7C6 6.44772 6.44772 6 7 6H23C23.5523 6 24 6.44772 24 7V8Z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chatsSideBar&quot;)/svg[1]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>

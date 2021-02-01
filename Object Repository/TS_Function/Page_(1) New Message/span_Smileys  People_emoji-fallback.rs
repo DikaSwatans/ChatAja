@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Smileys  People_emoji-fallback</name>
+   <tag></tag>
+   <elementGuidId>27eef11e-1527-4114-8114-b1a1a77e1932</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[9]/div/div[2]/div[3]/section/div/div[2]/div/div/div[3]/div[2]/span[5]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>emoji-fallback</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;home&quot;]/div[1]/div[@class=&quot;layout&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;chat&quot;]/div[@class=&quot;chat-footer&quot;]/section[1]/div[@class=&quot;replyforms&quot;]/div[@class=&quot;form-buttons&quot;]/div[@class=&quot;push popover__content popover__open emoji&quot;]/div[@class=&quot;emoji-mart&quot;]/div[@class=&quot;emoji-mart-scroll&quot;]/div[@class=&quot;emoji-mart-category&quot;]/span[@class=&quot;emoji-mart-emoji&quot;]/span[@class=&quot;emoji-fallback&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[9]/div/div[2]/div[3]/section/div/div[2]/div/div/div[3]/div[2]/span[5]/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span[5]/span</value>
+   </webElementXpaths>
+</WebElementEntity>
